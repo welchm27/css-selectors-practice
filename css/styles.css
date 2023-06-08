@@ -6,3 +6,21 @@ h1 {
     color: green;
     width:fit-content
 }
+
+.headings {
+    background-color: green;
+    color: black;
+    width: 300px;
+}
+
+.chickens {
+    background-color: wheat;
+    list-style-type: lower-roman;
+    width:fit-content
+}
+
+.cats {
+    background-color: brown;
+    list-style-type: square;
+    width:fit-content;
+}
